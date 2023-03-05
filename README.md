@@ -5,4 +5,6 @@
 
 1b: comparing running times of selection and insertion sort
 
-2: experiment based on divide and conquer approach
+2:  experiment based on divide and conquer approach
+
+3:  Strassens' Matrix Multiplication Algorithm
