@@ -10,3 +10,5 @@
 3:  Strassens' Matrix Multiplication Algorithm (DnC)
 
 4:  Longest Common Subsequence problem (DP)
+
+5:  Matrix Chain Multiplication Problem
