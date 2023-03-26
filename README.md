@@ -11,4 +11,4 @@
 
 4:  Longest Common Subsequence problem (DP)
 
-5:  Matrix Chain Multiplication Problem
+5:  Matrix Chain Multiplication Problem (DP)
