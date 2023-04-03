@@ -12,3 +12,5 @@
 4:  Longest Common Subsequence problem (DP)
 
 5:  Matrix Chain Multiplication Problem (DP)
+
+6:  Prims Algorithm (Greedy)
